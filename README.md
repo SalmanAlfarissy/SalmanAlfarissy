@@ -1,8 +1,6 @@
 <!-- ===================== BANNER ===================== -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&width=1200&section=header&color=0:0f2027,50:203a43,100:2c5364&text=Salman%20Alfarissy&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Flutter&descSize=18&descAlignY=70"
-  width="100%"
-/>
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,50:1e3c72,100:0f2027&text=Salman%20Alfarissy&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20|%20Backend%20•%20Frontend%20•%20Mobile&descSize=20&descAlignY=70&animation=fadeIn)](https://github.com/salmanalfarissy)
+
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
