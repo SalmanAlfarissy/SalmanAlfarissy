@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,50:1e3c72,100:0f2027&text=Salman%20Alfarissy&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20|%20Backend%20•%20Frontend%20•%20Mobile&descSize=20&descAlignY=70&animation=fadeIn)](https://github.com/salmanalfarissy)
+[![MasterHead](https://miro.medium.com/v2/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://github.com/salmanalfarissy)
 
 
 <!-- ===================== TYPING ANIMATION ===================== -->
